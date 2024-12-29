@@ -220,6 +220,11 @@ body {
     .box {
         height: 300px;
     }
+    #welcome {
+        position: relative;
+        left: -74px;
+        top: -13px;
+    }
     .pro img {
         width: 212px;
         margin-left: 35px;
@@ -260,10 +265,10 @@ body {
     }
     .xpbox {
         position: relative;
-        top: 18px;
+        top: -100px;
         width: 81px;
         height: 27px;
-        left: 25px;
+        left: -1px;
     }
     .xpbox,
     .project p {
@@ -272,8 +277,8 @@ body {
     }
     .project {
         position: relative;
-        top: -40px;
-        left: 147px;
+        top: -44px;
+        left: 178px;
         width: 81px;
         height: 27px;
     }
