@@ -333,6 +333,8 @@ body {
         width: 81px;
         height: 27px;
         left: 25px;
+        background-color: black;
+        opacity: 0px;
     }
     .xpbox,
     .project p {
@@ -345,5 +347,7 @@ body {
         left: 147px;
         width: 81px;
         height: 27px;
+        background-color: black;
+        opacity: 0px;
     }
 }
