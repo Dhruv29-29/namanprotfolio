@@ -197,7 +197,10 @@ body {
         height: 30px;
     }
     .pro img {
-        width: 80%;
+        width: 350px;
+        position: relative;
+        top: 125px;
+        left: 36px;
     }
     .xpbox,
     .project {
@@ -205,13 +208,27 @@ body {
         height: 50px;
         padding: 15px;
         bottom: auto;
-        left: auto;
-        right: auto;
     }
     .more-1,
     .more-2,
     .more-3 {
         font-size: 30px;
+    }
+    .project {
+        position: relative;
+        left: -14px;
+        bottom: 219px;
+        background-color: black;
+        opacity: 0px;
+    }
+    .xpbox {
+        width: 100px;
+        height: 50px;
+        padding: 15px;
+        bottom: -84px;
+        left: 384px;
+        background-color: black;
+        opacity: 0px;
     }
 }
 
