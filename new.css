@@ -181,7 +181,9 @@ body {
 
 @media screen and (max-width:1100px) {
     .pro img {
-        width: 400px;
+        width: 445px;
+        position: relative;
+        left: 23px;
     }
 }
 
